@@ -1,4 +1,4 @@
-# app1
+# vue2-ts
 
 ## Project setup
 ```
